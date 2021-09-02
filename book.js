@@ -4,6 +4,7 @@ const searchBook = () => {
     // console.log(searchText);
 
     // clear data
+    
     searchField.value = '';
 
     // load data
